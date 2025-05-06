@@ -21,16 +21,14 @@ Here are some ideas to get you started:
 ##### Programming  
 [![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,html,css,javascript,tensorflow,mysql&perline=3&theme=light)](https://skillicons.dev)
 
-
-##### Familiar IDE or Application
-
-
 ##### Framework
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&theme=light)](https://skillicons.dev) 
 
 ##### More Skills
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,arduino,photoshop,premiere,figma&theme=light)](https://skillicons.dev) 
+
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
