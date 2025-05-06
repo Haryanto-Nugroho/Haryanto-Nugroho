@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho)
 
-#### This is Me!
-- I'm a person who is currently studying in the undergraduate informatic engineering. 💻
-- I'm a graduate of Bangkit Academy 2024 batch 2 - by Google, Tokopedia, GoJek & Traveloka as mobile development. 📱
-- I have worked as a photographer and programmer at CV. HCN Putra photo studio. 📸
+#### This is Me!!
+- 💻 I'm a person who is currently studying in the undergraduate informatic engineering. 
+- 📱 I'm a graduate of Bangkit Academy 2024 batch 2 - by Google, Tokopedia, GoJek & Traveloka as mobile development. 
+- 📸 I have worked as a photographer and programmer at CV. HCN Putra photo studio.
 
 #### Skills
 
