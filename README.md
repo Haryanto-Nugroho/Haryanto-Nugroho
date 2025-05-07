@@ -26,19 +26,25 @@ Here are some ideas to get you started:
 
 #### Skills
 
-##### Programming  
+- ##### Programming  
 [![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,html,css,javascript,tensorflow,mysql&perline=5&theme=light)](https://skillicons.dev)
 
-##### Framework
+- ##### Framework
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&theme=light)](https://skillicons.dev) 
 
-##### More Skills
+- ##### More Skills
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,arduino,photoshop,premiere,figma&perline=5&theme=light)](https://skillicons.dev) 
 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+#### Completed projects
+- ##### Web Photostudio for advertising
+![Project-1](img/github-project-1.png)
+https://rmphotostudio3ciamis.github.io/
+- ##### Capstone Project Bangkit Academy 2024
 
 #### Connect with Me (You can Click this)! 
 
