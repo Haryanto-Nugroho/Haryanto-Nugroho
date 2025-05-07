@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show_icons=true&theme=onedark)
 
 #### This is Me!!
 - 💻 I'm a person who is currently studying in the undergraduate informatic engineering. 
