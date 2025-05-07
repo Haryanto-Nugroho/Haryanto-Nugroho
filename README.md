@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 - ##### Web Photostudio for advertising
 ![Project-1](img/github-project-1.png)
 https://rmphotostudio3ciamis.github.io/
-- ##### Capstone Project Bangkit Academy 2024
-
+- ##### Mental Health App (Capstone Project Bangkit Academy 2024)
+![Project-2](img/github-project-2.png)
 #### Connect with Me (You can Click this)! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haryanto-nugroho/)
