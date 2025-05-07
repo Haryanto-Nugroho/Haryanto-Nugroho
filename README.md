@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho&cache_seconds=30
+) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show_icons=true&theme=onedark)
 
 #### This is Me!!
 - 💻 I'm a person who is currently studying in the undergraduate informatic engineering. 
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-#### Connect with Me!
+#### Connect with Me (You can Click this)! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haryanto-nugroho/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nhaary/)
