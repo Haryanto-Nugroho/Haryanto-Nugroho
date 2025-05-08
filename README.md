@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show_icons=true&theme=onedark&cache_seconds=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show=reviews&show_icons=true&theme=onedark&cache_seconds=30)
 
 #### This is Me!!
 - 💻 I'm a person who is currently studying in the undergraduate informatic engineering. 
