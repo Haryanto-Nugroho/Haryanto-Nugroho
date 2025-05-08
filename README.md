@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho&cache_seconds=30
-) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryanto-Nugroho&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haryanto-Nugroho&hide=contribs,prs&show_icons=true&theme=onedark)
 
 #### This is Me!!
 - 💻 I'm a person who is currently studying in the undergraduate informatic engineering. 
@@ -46,6 +45,7 @@ Here are some ideas to get you started:
 https://rmphotostudio3ciamis.github.io/
 - ##### Mental Health App (Capstone Project Bangkit Academy 2024)
 ![Project-2](img/github-project-2.png)
+
 #### Connect with Me (You can Click this)! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haryanto-nugroho/)
